@@ -1,3 +1,3 @@
 # elastic_pendulum
-Simulation of the Elastic Pendulum.
-The Equations of Motion were derived using Euler-Lagrange and integrated using Euler-Method
+Numeric Integration of the Equations of Motion for the Elastic Pendulum
+The EoMs were derived using Euler-Lagrange and integrated using Euler-Method
